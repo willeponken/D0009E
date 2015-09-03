@@ -1,5 +1,5 @@
 ## D0009E
-Links, tips, tricks, no source code for labs please
+Links, tips, tricks, no lab source code.
 
 #### Links
 
