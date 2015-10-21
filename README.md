@@ -2,7 +2,7 @@
 
 ## D0009E
 Gamla tentor. Msga på FB om ni är ovana vid github och vill bidra, antingen genom att rätta något fel, ta en helt egen tenta
-och göra eller enskilda frågor.
+eller göra enskilda frågor.
 
 #### Links
 
